@@ -1,1 +1,0 @@
-# Sample_Size_Calculator
